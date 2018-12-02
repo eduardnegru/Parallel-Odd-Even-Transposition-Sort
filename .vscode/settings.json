@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp",
+        "array": "c",
+        "type_traits": "c",
+        "string_view": "c",
+        "string.h": "c"
+    }
+}
